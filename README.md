@@ -18,6 +18,10 @@
 2. 用 VS2022 打开项目
 3. 编译运行即可
 
+##📷 效果截图
+![跳动爱心]
+(screenshot.png)
+
 ##
 # ❤️ Beating Heart Animation
 
@@ -38,3 +42,7 @@ A dynamic beating heart effect created with C++ and the EasyX graphics library.
 1. Install [EasyX](https://www.easyx.cn/) for VS2022
 2. Open the project with VS2022
 3. Build and run
+
+##📷 Effect Screenshot
+![Beating Heart]
+(screenshot.png)
